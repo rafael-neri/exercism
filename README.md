@@ -1,3 +1,3 @@
 # Exercism
 
-Answer for Exercim Questions.
+Questions Resolved - Exercim Platform.
